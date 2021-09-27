@@ -12,5 +12,3 @@ I am a child page.
 
 
 
-Blue label
-{: .label .label-blue }
