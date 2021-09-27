@@ -8,6 +8,7 @@ nav_order: 1
 # Nmap 
 
 ## Tipos de Scan
+
 |Nmap | -sn ip | ip ping scan|
 |     | -Pn ip | ip Comprobar vivo sin Ping, tratando todo como up, guay para hosts windows|
 
@@ -15,13 +16,17 @@ nav_order: 1
 |     | -sU |UDP
 
 ##Params guays
+
 |Nmap | -O | Operative System |
 |     | -sV | Versión de los servicios |
 |     | -A | Full agresivo |
 |     | -n | Evitar resolución DNS IMPORTANTE POR TIEMPO Y EVITAR SERVIDOR DNS |
+| -T1(2,3,4,5)| Para el tema de velocidad 1
 
 ##Scripts
+
 Nmap --script xxx
+
 		| Auth | ejecuta todos sus scripts disponibles para autenticación |
 		| Default | ejecuta los scripts básicos por defecto de la herramienta |
 		| Discovery | recupera información del target o víctima |
@@ -34,17 +39,11 @@ Nmap --script xxx
 		
 'Nmap mira los 1000 mas conocidos por defecto'
 
-Nmap -p puerto,puerto2 ip
-			  -
-	        -p- para todos los puertos
--T1(2,3,4,5) para el tema de velocidad
---top-ports=233 Top puertos
---open para solo abiertos
+##Puertos
+
+|Nmap | -p puerto,puerto2 | Puertos de uno en uno |
+|     | -p- | Para todos los puertos |
+|     | --top-ports=233 |Top N puertos |
+|     | --open | Para solo abiertos|
 
 Mirar los Outputs
-
-
-
-
-
-
