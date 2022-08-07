@@ -1,0 +1,99 @@
+{
+  "main": {
+    "id": "53006e192e252891",
+    "type": "split",
+    "children": [
+      {
+        "id": "5777bb15b1fc9560",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "redes/Wireshark/Wireshark.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "597abbbac7543286",
+    "type": "split",
+    "children": [
+      {
+        "id": "2aaaf271e76b756f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "192e66ae25874dd5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e16755796beddb98",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "974080dd6c890067",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3ec5f1936ad019c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01534778b215ee3b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "redes/Wireshark/Wireshark.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5777bb15b1fc9560",
+  "lastOpenFiles": [
+    "redes/nmap/nmap.md",
+    "redes/Wireshark/Wireshark.md",
+    "redes/SMB/SMB.md",
+    "redes/bredes.md",
+    "README.md"
+  ]
+}

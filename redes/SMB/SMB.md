@@ -14,7 +14,7 @@ nav_order: 0
 {:toc}
 
 ## Introducción
-SMB -Server Message Block Protocol- es un protocolo de comunicación cliente-servidor utilizado para compartir el acceso a archivos, impresoras, puertos serie y otros recursos en una red.
+SMB -Server Message Block Protocol- es un protocolo de comunicación cliente-servidor utilizado para compartir el acceso a archivos, impresoras, puertos serie y otros recursos en una red..
 
 ## Herramientas
 
